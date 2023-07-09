@@ -1,0 +1,68 @@
+Unknown command: 'runserve'. Did you mean runserver?
+Type 'manage.py help' for usage.
+Unknown command: 'runserve'. Did you mean runserver?
+Type 'manage.py help' for usage.
+Unknown command: 'runserve'. Did you mean runserver?
+Type 'manage.py help' for usage.
+Watching for file changes with StatReloader
+[19/May/2023 15:41:31] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:41:43] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:41:45] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:42:28] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:42:30] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:42:38] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:42:41] "GET /signlanguagetochatgpt/ HTTP/1.1" 200 1113
+[19/May/2023 15:42:41] "GET /static/languagechat/style.css HTTP/1.1" 200 0
+[19/May/2023 15:42:46] "GET /signlanguagetochatgpt/ HTTP/1.1" 200 1113
+[19/May/2023 15:44:35,483] - Broken pipe from ('221.148.200.15', 54724)
+[19/May/2023 15:44:35,483] - Broken pipe from ('221.148.200.15', 54726)
+[19/May/2023 15:45:01] code 400, message Bad request version ('À\x13À')
+[19/May/2023 15:45:01] You're accessing the development server over HTTPS, but it only supports HTTP.
+[19/May/2023 15:45:01] "GET / HTTP/1.1" 200 568
+[19/May/2023 15:45:01] "GET / HTTP/1.1" 200 568
+Not Found: /.vscode/sftp.json
+[19/May/2023 15:45:01] "GET /.vscode/sftp.json HTTP/1.1" 404 2582
+Not Found: /about
+[19/May/2023 15:45:01] "GET /about HTTP/1.1" 404 2546
+Not Found: /debug/default/view
+[19/May/2023 15:45:01] "GET /debug/default/view?panel=config HTTP/1.1" 404 2598
+Not Found: /v2/_catalog
+[19/May/2023 15:45:01] "GET /v2/_catalog HTTP/1.1" 404 2564
+Not Found: /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+[19/May/2023 15:45:02] "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1" 404 2756
+Not Found: /server-status
+[19/May/2023 15:45:02] "GET /server-status HTTP/1.1" 404 2570
+Not Found: /login.action
+[19/May/2023 15:45:02] "GET /login.action HTTP/1.1" 404 2567
+Not Found: /_all_dbs
+[19/May/2023 15:45:02] "GET /_all_dbs HTTP/1.1" 404 2555
+Not Found: /.DS_Store
+[19/May/2023 15:45:02] "GET /.DS_Store HTTP/1.1" 404 2558
+Not Found: /.env
+[19/May/2023 15:45:02] "GET /.env HTTP/1.1" 404 2543
+Not Found: /.git/config
+[19/May/2023 15:45:02] "GET /.git/config HTTP/1.1" 404 2564
+Not Found: /s/733313e2030313e20383e233/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties
+[19/May/2023 15:45:02] "GET /s/733313e2030313e20383e233/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1" 404 2821
+Not Found: /config.json
+[19/May/2023 15:45:02] "GET /config.json HTTP/1.1" 404 2564
+Not Found: /telescope/requests
+[19/May/2023 15:45:02] "GET /telescope/requests HTTP/1.1" 404 2585
+[19/May/2023 15:45:02] "GET /?rest_route=/wp/v2/users/ HTTP/1.1" 200 568
+[19/May/2023 16:11:03] "GET / HTTP/1.1" 200 568
+/home/ubuntu/deploy/mini7/chatgpt/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 19, 2023 - 15:41:15
+Django version 4.2.1, using settings 'mysite.settings'
+Starting development server at http://0.0.0.0:80/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[19/May/2023 16:50:17] "GET /chatgpt/ HTTP/1.1" 200 490
+[19/May/2023 16:50:17] "GET /static/gtp/style.css HTTP/1.1" 200 0
+[19/May/2023 16:50:23] "POST /chatgpt/chat HTTP/1.1" 200 650
+[19/May/2023 16:51:09] "POST /chatgpt/chat HTTP/1.1" 200 2048
+[19/May/2023 16:51:20] "GET /signlanguagetochatgpt/ HTTP/1.1" 200 1113
+[19/May/2023 16:51:21] "GET /static/languagechat/style.css HTTP/1.1" 200 0
